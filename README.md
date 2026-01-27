@@ -1,15 +1,11 @@
 
 # Viewer Question on PySimpleGUI Excel Data Entry Form
 
-
 Question: "I think a great addition would be to know how to add the data to a specific sheet in an Excel with multiple sheets. Also, to add the data to the bottom of an existing data table without overwriting the existing data and formatting on Excel. Would you know how to do this with your existing template? :)"
-
 
 ## Original video
 
 [![YouTube Video](https://img.youtube.com/vi/svcv8uub0D0/0.jpg)](https://youtu.be/svcv8uub0D0)
-
-
 
 ## More Solutions
 Explore my tools and templates for Excel, automation, and more.
@@ -20,11 +16,7 @@ Explore my tools and templates for Excel, automation, and more.
 - **Website:** [PythonAndVBA](https://pythonandvba.com)
 - **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
 - **Contact:** [Get in Touch](https://pythonandvba.com/contact)
-## ☕ Support 
-If you appreciate the project and wish to encourage its continued development, consider [supporting my work](https://pythonandvba.com/coffee-donation).
+## Support
+If you find this project helpful, consider buying me a coffee. 
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://pythonandvba.com/coffee-donation)
-
-## Feedback & Collaboration
-For feedback, suggestions, or potential collaboration opportunities, reach out at contact@pythonandvba.com.
-![Logo](https://www.pythonandvba.com/banner-img)
-
