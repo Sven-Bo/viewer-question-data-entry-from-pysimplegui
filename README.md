@@ -7,10 +7,11 @@ Question: "I think a great addition would be to know how to add the data to a sp
 
 [![YouTube Video](https://img.youtube.com/vi/svcv8uub0D0/0.jpg)](https://youtu.be/svcv8uub0D0)
 
-## More Solutions
-Explore my tools and templates for Excel, automation, and more.
+## Learn Excel Automation with Python
+If this repo helped you, my [Excel Automation Course](https://pythonandvba.com/excel-automation-course/) teaches the full workflow from zero: Python for Excel users, xlwings, pandas and real projects.
 
-**[View all solutions](https://pythonandvba.com/solutions)**
+Also check out my other [tools and templates](https://pythonandvba.com/solutions).
+
 ## Connect with Me
 - **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
 - **Website:** [PythonAndVBA](https://pythonandvba.com)
